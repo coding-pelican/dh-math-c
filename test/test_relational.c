@@ -1,4 +1,4 @@
-#include "../src/dh_math.h"
+#include "../dh_math.h"
 #include <stdio.h>
 
 int main() {
